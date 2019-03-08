@@ -1,0 +1,4 @@
+[ 2018-06-27T15:21:48+08:00 ] 127.0.0.1 /Cms/index.php/Admin/index/login.html
+ERR: 1146:Table 'study.study_teacher' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `study_teacher`
+

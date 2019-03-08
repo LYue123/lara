@@ -1,0 +1,13 @@
+[ 2018-06-18T19:20:28+08:00 ] 127.0.0.1 /Cms/index.php/User/login.html
+ERR: SQLSTATE[HY000] [1049] Unknown database 'study'
+
+[ 2018-06-18T19:22:39+08:00 ] 127.0.0.1 /Cms/index.php/User/login.html
+ERR: SQLSTATE[HY000] [1049] Unknown database 'study'
+
+[ 2018-06-18T22:27:52+08:00 ] ::1 /Cms/index.php/Order/score.html
+ERR: 1146:Table 'study.study_subject' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `study_subject`
+
+[ 2018-06-18T22:32:08+08:00 ] ::1 /Cms/index.php/index/login.html
+ERR: 非法操作:login
+

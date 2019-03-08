@@ -1,0 +1,11 @@
+[ 2017-06-11T20:06:21+08:00 ] ::1 /cms/index.php/User/register.html
+ERR: 1406:Data too long for column 's_no' at row 1
+ [ SQL语句 ] : INSERT INTO `study_student` (`s_no`,`s_user`,`s_password`,`s_email`,`key`) VALUES ('201508328888888','123456','e99a18c428cb38d5f260853678922e03','1150400220@qq.com','8b16ef0e8dc41ac2f4d58e0a45621922')
+
+[ 2017-06-11T20:08:30+08:00 ] ::1 /cms/index.php/User/register.html
+ERR: 1406:Data too long for column 's_no' at row 1
+ [ SQL语句 ] : INSERT INTO `study_student` (`s_no`,`s_user`,`s_password`,`s_email`,`key`) VALUES ('201508320999999','123456','e99a18c428cb38d5f260853678922e03','1150400220@qq.com','7cdace91c487558e27ce54df7cdb299c')
+
+[ 2017-06-11T20:12:55+08:00 ] ::1 /cms/index.php/Order/update
+ERR: 非法操作:update
+

@@ -1,0 +1,11 @@
+[ 2018-06-30T09:40:44+08:00 ] 127.0.0.1 /Cms/index.php/Admin/index/login.html
+ERR: 1146:Table 'study.study_teacher' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `study_teacher`
+
+[ 2018-06-30T10:01:51+08:00 ] 127.0.0.1 /Cms/index.php/Admin/Order/score.html
+ERR: 1146:Table 'study.study_subject' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `study_subject`
+
+[ 2018-06-30T10:02:22+08:00 ] 127.0.0.1 /Cms/index.php/Admin/Order/modifypass.html
+ERR: 非法操作:modifypass
+
